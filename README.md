@@ -1,6 +1,6 @@
-<div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com/?center=true&color=1E90FF&duration=4000&font=Righteous&height=70&lines=Hello+World+👋;I am Varun&size=35&vCenter=true&width=500" alt="Hello World, I'm World" /></h1>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Varun;" />
+</h1>
 
 <div align="center">
     Welcome to my GitHub profile! I'm Varun, a student pursuing qualifications in CA and CMA, with a passion for finance and technology.
