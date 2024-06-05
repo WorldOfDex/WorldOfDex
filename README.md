@@ -80,7 +80,11 @@ Feel free to reach out if you want to collaborate on a project, discuss finance 
     
 </div>
 
+<div align="center">
+
 ![snake gif](https://github.com/WorldOfDex/WorldOfDex/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
   
 
