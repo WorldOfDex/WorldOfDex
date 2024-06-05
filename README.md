@@ -85,7 +85,10 @@ Feel free to reach out if you want to collaborate on a project, discuss finance 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?border_radius=10&count_private=true&hide=HTML&langs_count=8&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&username=Worldofdex" alt="top langs" width="400" height="200"/>
     </div>
 </div>
-    
+
+
+![snake gif](https://github.com/WorldOfDex/WorldOfDex/blob/output/github-contribution-grid-snake-dark.svg)
+
   
 
 
