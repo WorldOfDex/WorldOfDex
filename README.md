@@ -77,11 +77,15 @@ Feel free to reach out if you want to collaborate on a project, discuss finance 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div align="center">
-    <img src="https://streak-stats.demolab.com/?border_radius=10&count_private=true&theme=transparent&user=Worldofdex" alt="streak stats" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api?border_radius=10&count_private=true&rank_icon=github&show_icons=true&theme=transparent&username=Worldofdex" alt="readme stats" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?border_radius=10&count_private=true&hide=HTML&langs_count=8&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&username=Worldofdex" alt="top langs" />
+<div align="center" style="display: flex; justify-content: space-around;">
+    <div>
+    <img src="https://github-readme-stats.vercel.app/api?border_radius=10&count_private=true&rank_icon=github&show_icons=true&theme=transparent&username=Worldofdex" alt="readme stats" width="400" height="200"/>      </div>
+    <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?border_radius=10&count_private=true&hide=HTML&langs_count=8&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&username=Worldofdex" alt="top langs" width="400" height="200"/>
+    </div>
 </div>
+    
+  
 
 
 
