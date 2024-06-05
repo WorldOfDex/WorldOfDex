@@ -53,16 +53,12 @@ As a student in finance and technology, I'm currently focused on:
 > I have Good knowledge and High exprise in these fields as on day 
 ### Tools & Distro 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=obsidian,vscode,github,git,excel,powershell,pycharm,python,popos,ubuntu&perline=4)
-
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=obsidian,vscode,github,git,excel,powershell,pycharm,python,popos,ubuntu)
 
 
 ## 🕊️The quote that still drives me to this day.
 
-
 <div>
-
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Some+people+die+at+25+and+aren't+buried+until+75&author=Benjamin+Franklin)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
@@ -75,17 +71,14 @@ Feel free to reach out if you want to collaborate on a project, discuss finance 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-varunraj79-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunraj79)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-varuncupid-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/varuncupid/)
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats & contribution ⚡</h2>
 
-<div align="center" style="display: flex; justify-content: space-around;">
-    <div>
-    <img src="https://github-readme-stats.vercel.app/api?border_radius=10&count_private=true&rank_icon=github&show_icons=true&theme=transparent&username=Worldofdex" alt="readme stats" width="400" height="200"/><br/>      
-    </div>
-    <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?border_radius=10&count_private=true&hide=HTML&langs_count=8&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&username=Worldofdex" alt="top langs" width="400" height="200"/>
-    </div>
+<div align="center">
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Worldofdex&theme=transparent" style="display: inline-block; width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Worldofdex&count_private=true&show_icons=true&theme=transparent" style="display: inline-block; width: 45%;"/>
+    
 </div>
-
 
 ![snake gif](https://github.com/WorldOfDex/WorldOfDex/blob/output/github-contribution-grid-snake-dark.svg)
 
