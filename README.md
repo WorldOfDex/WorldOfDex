@@ -3,6 +3,11 @@
 </h1>
 
 <div align="center">
+    <h1><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="200">
+    </h1>
+</div>
+
+<div align="center">
     Welcome to my GitHub profile! I'm Varun, a student pursuing qualifications in CA and CMA, with a passion for finance and technology.
 </div>
 
