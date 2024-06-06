@@ -18,23 +18,11 @@
 
 ## 🧠 About Me
 
-- **Student:** Pursuing qualifications in CA and CMA
-- **From:** Tamil Nadu, India
-- **Passionate about** Finance, technology, and continuous learning
+- Student from Tamil Nadu, India, pursuing qualifications in CA and CMA.
+- Developing skills in operational finance software development and data analysis.
+- Exploring new technologies for streamlined financial processes.
+- Learning about financial analysis and management.
 
-## 🚀 Current Goals
-
-- **Pursuing:** Qualifications in CA and CMA
-- **Enhancing:** My skills in finance software development and data analysis
-- **Exploring:** New technologies and tools to streamline financial processes
-
-## 🚀 What I Do
-
-As a student in finance and technology, I'm currently focused on:
-
-- **Learning:** About financial analysis and management
-- **Developing:** Finance software solutions for efficient financial operations
-- **Exploring:** Technologies such as Python, C, SQL, and Tdl for financial data analysis and management
 
 ## 🛠️ Skills
 
