@@ -26,7 +26,7 @@
 
 ## 🛠️ Skills
 
-### Programming Languages
+### 1.Programming Languages
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=3776AB&color=FFE873)](https://www.python.org/)
 [![C Badge](https://img.shields.io/badge/C_Programing-555555?style=for-the-badge&logo=c&logoColor=white&labelColor=03599C)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -34,12 +34,13 @@
 
 >I am still developing my language skills and am not yet an expert in this field, but I'm excited to learn and grow with each new conversation.
 
-### Technologies
+### 2.Technologies
 
 [![Tally Prime](https://custom-icon-badges.demolab.com/badge/Tally_Prime-3069b1?style=for-the-badge&logo=tally-prime&labelColor=white)](https://tallysolutions.com/tally-prime/)
 
-> I have Good knowledge and High exprise in these fields as on day 
-### Tools & Distro 
+> I have Good knowledge and High exprise in these fields as on day
+
+### 3.Tools & Distro 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=obsidian,vscode,github,git,excel,powershell,pycharm,python,popos,ubuntu)
 
