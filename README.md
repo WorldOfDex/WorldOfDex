@@ -42,7 +42,7 @@
 
 ### 3.Tools & Distro 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=obsidian,vscode,github,git,excel,powershell,pycharm,python,popos,ubuntu)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tallyprime,obsidian,vscode,github,git,excel,powershell,pycharm,python,popos,ubuntu)
 
 
 ## 🕊️The quote that still drives me to this day.
